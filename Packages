@@ -1,0 +1,14 @@
+
+Package: com.fewly11.FirstRelease
+Version: 1.0
+Section: Tweaks
+Maintainer: fewly11 <Danjer7757@yahoo.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ATestTweak.deb
+Size: 3826  
+MD5sum: 7542ff305c20d22fa97db2128a7969882cee3dc6
+Description: This is a test package.
+Name: Test package
+Author: fewly11 <thaibao1111@gmail.com>
+Depiction: A Test tweak
