@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideTabBarLabels</string>
+			<key>label</key>
+			<string>Hide Tab Bar Labels</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideExploreTabOne</string>
+			<key>label</key>
+			<string>Hide Explore Tab</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideUploadTabOne</string>
+			<key>label</key>
+			<string>Hide Upload (+) Tab</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideSubscriptionsTabOne</string>
+			<key>label</key>
+			<string>Hide Subscriptions Tab</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideLibraryTabOne</string>
+			<key>label</key>
+			<string>Hide Library Tab</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Tab Bar</string>
+</dict>
+</plist>
