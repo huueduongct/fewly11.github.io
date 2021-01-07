@@ -1,12 +1,14 @@
-Package: little12
-Name: Little12
+Package: Little12
 Version: 1.0.0
-Section: Tweaks
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, 
-Size: 386036
-Author: Ryan Nair
-Maintainer: Ryan Nair
-Description: iPhone 12 gestures and more for iOS 14
+Maintainer: fewly11 <thaobao1111@gmail.com>
+Depends: mobilesubstrate
 Filename: ./debs/Little12.deb
+Size: 386036
 MD5sum: fb6da83453bcf26f83a90e77f6c52a9d
+SHA1: f4dba29a43a295029c9f48c880ea76f89c185ee3
+SHA256: e9464258fa517113aa0ea887bfcee085c31eced06bb71b6c1e5b274fab745528
+Section: Tweaks
+Description: Ryan Nair
+Author: Ryan Nair <thaobao1111@gmail.com>
+Name: Little12
