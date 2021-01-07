@@ -12,3 +12,19 @@ Section: Tweaks
 Description: Ryan Nair
 Author: Ryan Nair <thaobao1111@gmail.com>
 Name: Little12
+
+Package: time
+Version: 6.5
+Architecture: iphoneos-arm
+Maintainer: fewly11 <thaobao1111@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader,firmware (<= 14.99)
+Conflicts: com.manu.timedemo
+Filename: ./debs/time.deb
+Size: 377548 
+MD5sum: ce6f4548c1f0bf3cfb7b4e34f1048d73
+SHA1: 04d4d2973905bbcc0e6c3d77695c92f232b67988
+SHA256: d0d463ddd5c1cbb4f2d5c1abb486423c6c7a7fb134f0cf8a20de72cc3bd8089a
+Section: Tweaks
+Description: NaneraManu
+Author: NaneraManu <thaobao1111@gmail.com>
+Name: time
