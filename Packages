@@ -17,7 +17,7 @@ Package: time
 Version: 6.5
 Architecture: iphoneos-arm
 Maintainer: fewly11 <thaobao1111@gmail.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader,firmware (<= 14.99)
+Depends: mobilesubstrate
 Conflicts: com.manu.timedemo
 Filename: ./debs/time.deb
 Size: 377548 
