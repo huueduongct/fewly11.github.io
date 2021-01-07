@@ -12,3 +12,18 @@ Section: Tweaks
 Description: Ryan Nair
 Author: Ryan Nair <thaobao1111@gmail.com>
 Name: Little12
+
+Package: youtube-reborn
+Version: 1.0.7.3
+Architecture: iphoneos-arm
+Maintainer: fewly11 <thaobao1111@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/Little12.deb
+Size: 106544 
+MD5sum: 70954b2823388f985cac1f5d8e6799db
+SHA1: 0e4d849d322fb1b499aa35c941facf85c2393305
+SHA256: b2a0d99ddd209ae1f3ab6602482233d6e5388061f43d98d9f330f880bec71ffa
+Section: Tweaks
+Description: SarahH12099
+Author: SarahH12099 <thaobao1111@gmail.com>
+Name: YouTube Reborn
