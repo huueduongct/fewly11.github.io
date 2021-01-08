@@ -27,3 +27,18 @@ Section: Tweaks
 Description: xsf1re
 Author: xsf1re <thaobao1111@gmail.com>
 Name: flyjb
+
+Package: com.fewly11.fiveicondock
+Name: FiveIconDock
+Version: 0.0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/FiveIconDock.deb
+Size: 3438
+MD5sum: e1f0369c71e182fe31dca8a35a141f55
+SHA1: 5b721dfcc85eeb53757a84cc86862f8f5ade1c4d
+SHA256: ee46bb9a442012f65f9183728dbf20303ee0897e67534995fa2fcd27d103b759
+Author: Minazuki
+Maintainer: Minazuki
+Description: An awesome MobileSubstrate tweak!
