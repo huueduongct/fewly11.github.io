@@ -42,3 +42,23 @@ SHA256: ee46bb9a442012f65f9183728dbf20303ee0897e67534995fa2fcd27d103b759
 Author: Minazuki
 Maintainer: Minazuki
 Description: An awesome MobileSubstrate tweak!
+
+Package: cercube
+Version: 5.2.11
+Priority: optional
+Section: Tweaks
+Maintainer: fewly
+Description: Bổ sung tính năng hữu ích cho Youtube!
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Installed-Size: 17080
+Name: Cercube YouTube
+Author: Majd Alfhaily
+Depiction: https://fewly11.github.io
+Icon: 5976890 Bytesfile:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/cercube_5.2.11.deb
+Size: 5976890
+MD5sum: 92e8b202b7b5dd18646e1659ddd5715c
+SHA1: 08f1354dfb36221d0a6b4675f92465caebe39faa
+SHA256: 3d5416fa66b45450466774d9b971c6b100d1baf482c3a532c19335db81d83c29
